@@ -1,2 +1,4 @@
-# flask-mysql-phpmyadmin-with-docker-vscode-on-ubuntu-linux-os
-Flask, Mysql, PhpMyAdmin with Docker, VScode on Ubuntu Linux OS
+# Flask, Mysql, PhpMyAdmin with Docker, VScode on Ubuntu Linux OS
+
+### Youtube video: https://youtu.be/pNRbSOALBuA
+### Blog: https://levanlau.net
